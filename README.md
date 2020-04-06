@@ -11,7 +11,7 @@ In this project, energy consumption was obtained using three different approache
 2. Lagging Methods : The Lagging (time-shift) is being done on original dataset to observe trend provided by the dataset  and prediction is provided using Boosting Methods.
 3. Deep Learning and Neural Network: The Neural Network (Fully Connected) and Deep Learning (RNN and CNN) models are used for prediction based on sequence being followed by original data.
 
-Finally, multiple regression metrics are used for comparing different models used for prediction in three different approaches includes:
+Finally, regression metrices used in this project are as follows:
 
 1. Root Mean Square Error (RMSE)
 2. Mean Absolute Error (MAE)
